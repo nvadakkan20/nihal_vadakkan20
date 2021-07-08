@@ -247,7 +247,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 800px;
-  background: url("file:///home/nvadakkan20/Desktop/MypersonalWeb/assets/img/bgimg2.jpg") top no-repeat;
+  background: url("https://raw.githubusercontent.com/nvadakkan20/nihal_vadakkan20/main/assets/img/bgimg2.jpg") top no-repeat;
   position: relative;
   background-size: contain;
 }
